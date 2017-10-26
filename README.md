@@ -1,4 +1,4 @@
-# Ararat_weather-
+# Yahoo Weather parser
 Used ReactJS
 
 ReactJS with CDN
